@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shwballl
-- 👀 I’m interested in WebDeveloppment
+- 👀 I’m interested in WebDeveloppment, Sofware Engenering
 - 🌱 I’m currently learning FrontEnd
 
 <!---
