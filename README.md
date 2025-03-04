@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shwballl
-- 👀 I’m interested in Sofware Engeneering
-- 🌱 I’m currently learn C++ and some Computer Science
+- 👀 I’m interested in Sofware Engeneering and Data Science
 
 <!---
 shwballl/shwballl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
