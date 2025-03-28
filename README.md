@@ -4,8 +4,12 @@
 
 <a href="https://github.com/shwballl"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=3d3ae0&center=true&random=false&width=1000&height=100&lines=@shwballl" alt="Typing SVG" /></a>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shwballlk&label=Profile%20views&color=blueviolet&style=flat" alt="shwballl" /> </p>
 
+<a href="https://github.com/shwballl?tab=followers">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shwballl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/shwballl?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shwballl?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<br>
 Hard-working and goal-oriented personality with a huge desire to develop high quality software products.
 Ready to collaborate on any open-source projects. 💡
 
