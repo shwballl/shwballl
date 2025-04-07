@@ -24,7 +24,8 @@ Ready to collaborate on any open-source projects. 💡
 
 
 <h3 align="left">Contact me</h3><p align="left">
-<a href="https://www.linkedin.com/in/nazar-kuzia-456a52358/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b5%d0%b3%d0%be%d1%80-%d0%b4%d1%80%d0%b5%d0%bc%d0%bb%d1%8e%d0%b3%d0%b0-0b6161212" height="30" width="40" /></a>
+<a href="https://linktr.ee/shwballl" target="blank"><img align="center" src="https://github.com/user-attachments/assets/974fc84d-7e5e-43c4-b126-ed4b5155202e"
+ alt="https://linktr.ee/shwballl" height="30" width="150" /></a>
 <a href="mailto:kyzyanazar@gmail.com" target="blank"><img align="center" src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="mail" height="42" width="50" /></a>
 </p>
 
