@@ -37,7 +37,7 @@ Ready to collaborate on any open-source projects. 💡
 | #1      | Description | Level     |
 | :---        |    :----:   |          ---: |
 | Languages      | Python/HTML/CSS 🐍       | Intermediate |
-| Frameworks   | Django 😎        | Intermediate      |
+| Frameworks   | Django/FastAPI/React 😎        | Intermediate      |
 
 ### Data Science
 
